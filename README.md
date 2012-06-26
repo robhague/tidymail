@@ -2,7 +2,7 @@
 
 TidyMail is a script to automatically tidy up the formatting of both simple and multi-part MIME mail messages. It performs the following operations:
 
-  * Normalises
+  * Normalises newlines
   * Strips leading and trailing whitespace from the message
   * Removes quoted signatures
   * Removes everything after a line containing only "--", and replaces it with a signature
