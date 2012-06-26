@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+#
+# A simple script to tidy up mail messages and add a signature.
+# Invoke as a Unix filter
 
 import email
 import email.parser
